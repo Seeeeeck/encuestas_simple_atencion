@@ -67,6 +67,6 @@ Sin comando por ahora
   necesito que actualices el /context  para mantener
   el contexto de la app context_frontend.md y context_backend.md
 - Si una desición mía es nueva en el transcurso del proyecto respecto a /docs
-  entonces modifica /docs para que tenga los ultimos cambios
+  entonces modificalos archivos para que tenga los ultimos cambios
 
 
