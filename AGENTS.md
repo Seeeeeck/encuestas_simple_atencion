@@ -2,15 +2,16 @@
 [Sistema de encuesta que pregunta sobre cómo ciertas redes sociales y videojuegos, diseñados para mantenerte en su ciclo de uso mediante recompensas constantes, han influido en tus hábitos de atención y concentración.]
 
 ## REGLA PRINCIPAL - Contexto siempre actualizado
-- Cada vez que se cree, modifique o elimine CUALQUIER archivo de código dentro del
-  proyecto (backend/, frontend/, o cualquier otra carpeta), antes de dar la tarea
-  por terminada debes actualizar `/context/context_backend.md` y/o
-  `/context/context_frontend.md` reflejando ese cambio.
+- Cada vez que se cree, modifique o elimine CUALQUIER archivo del proyecto
+  (código, config, migraciones, .gitignore, etc., en backend/, frontend/ o
+  cualquier otra carpeta), actualiza `/context/context_backend.md` y/o
+  `/context/context_frontend.md` DE INMEDIATO, en cuanto haces ese cambio puntual.
+- No esperes a terminar toda la tarea ni agrupes varios cambios para actualizar
+  el contexto al final: es por cada archivo tocado, no por tarea completa.
 - Aplica a todo archivo, sin importar qué tan pequeño parezca el cambio (una
   migración, un componente, un endpoint, una config, un .gitignore, etc.).
-- No es opcional ni hace falta que te lo pida cada vez: es parte de cerrar
-  cualquier tarea que toque código o archivos del proyecto, igual que marcar
-  (listo) en /plan.
+- No es opcional ni hace falta que te lo pida cada vez: pasa siempre que toques
+  un archivo, igual que marcar (listo) en /plan.
 - El objetivo es que el contexto nunca quede desactualizado, para no perdernos
   más adelante en el proyecto.
 
@@ -75,6 +76,22 @@ Sin comando por ahora
   o sin preguntarme antes.
 - Cada vez que terminemos un paso de /plan, márcalo como (listo) en el archivo de esa
   fase, junto al paso correspondiente.
+- Cuando TODOS los pasos de un archivo de fase queden (listo), marca también el nombre
+  de ese archivo como (listo) en la tabla de "Estado de fases" más abajo.
+
+## Estado de fases (`plan/`)
+- `00-setup-entorno.md` (listo)
+- `01-backend-base.md`
+- `02-modelo-datos.md`
+- `03-auth-backend.md`
+- `04-encuesta-backend.md`
+- `05-admin-backend.md`
+- `06-frontend-base.md`
+- `07-frontend-auth.md`
+- `08-frontend-encuesta.md`
+- `09-frontend-admin.md`
+- `10-oauth-google.md`
+- `11-no-funcionales-y-despliegue.md`
 
 ## Documentación
 - La documentación está en /docs
