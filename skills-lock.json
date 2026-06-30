@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "configure-nightwatch": {
+      "source": "laravel/agent-skills",
+      "sourceType": "github",
+      "skillPath": "laravel-nightwatch/skills/configure-nightwatch/SKILL.md",
+      "computedHash": "c47f582081a7ec6b9fc4ea72c863fddada67e3d55e2b9b95f979bc536eb9e674"
+    },
+    "deploying-laravel-cloud": {
+      "source": "laravel/agent-skills",
+      "sourceType": "github",
+      "skillPath": "laravel-cloud/skills/deploying-laravel-cloud/SKILL.md",
+      "computedHash": "fcb1682a17a6423f5dc10796619dc9f4358fb7cbfe138391d89950742aa154f0"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "computedHash": "4eabc66183767153e404b39d1b839b1c37f2d82d86f0a0d7e880a579d8d62336"
+    },
+    "starter-kit-upgrade": {
+      "source": "laravel/agent-skills",
+      "sourceType": "github",
+      "skillPath": "laravel/skills/starter-kit-upgrade/SKILL.md",
+      "computedHash": "263cd806eab03b15af59bc6c7b46058425c31e9df4204572f5743ceae28d3a1b"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "computedHash": "f3bc47f890f42a44db1007ab390709ec368e4b8c089baee6b0007182236ac474"
+    }
+  }
+}
