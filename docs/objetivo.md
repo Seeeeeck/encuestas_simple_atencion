@@ -1,0 +1,1 @@
+Obtener métricas de personas de diferentes edades sobre el uso frecuente de redes sociales y videojuegos con sistemas de alta recompensa, analizando su influencia en la atención, el tiempo de permanencia y los hábitos de consumo digital.

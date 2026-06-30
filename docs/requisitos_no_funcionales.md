@@ -1,0 +1,8 @@
+- La página debe cargar en menos de 2 segundos
+- La página debe tener arriba de 90 en puntaje de google insight
+- La página debe tener colores que relajen la vista
+- La página debe usar HTTPS
+- La clave de usuario debe estar cifrada en la base de datos
+- La página debe ser responisva web/mobile
+- Debe estar disponible en un hosting gratuito y estable
+- Debe soportar al menos 50 usuarios a la vez 

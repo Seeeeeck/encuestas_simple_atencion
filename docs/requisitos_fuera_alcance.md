@@ -1,0 +1,3 @@
+- No se pueden crear otras encuestas con difentes preguntas, en el futuro puede existir la posibilidad.
+- La encuesta no tiene caducidad, en un futuro se podría agregar una fecha de finalización.
+- No permite descargar o exportar a excel las estadísticas
